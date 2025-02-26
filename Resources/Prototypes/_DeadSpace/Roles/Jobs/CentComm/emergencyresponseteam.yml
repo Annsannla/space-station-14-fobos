@@ -37,15 +37,12 @@
     back:
     - ERTloadoutAmberSecondary
     - ERTloadoutAmberPrimary
-    - BoxMRE
+    - BoxSurvivalERT
     - WeaponDisabler
     - CrowbarRed
-    - FlashlightSeclite
     - ADTtelescopicBaton
     - PinpointerNuclear
     - Flash
-    - Flare
-    - EmergencyMedipen
     - Truncheon
 
 ## Red
@@ -83,12 +80,10 @@
     back:
     - ERTloadoutRedPrimary
     - ERTloadoutRedSecondary
-    - BoxMRE
+    - BoxSurvivalERT
     - PinpointerNuclear
     - CrowbarRed
     - DoorRemoteAll
-    - Flare
-    - EmergencyMedipen
     - ADTtelescopicBaton
     - Flash
     - WeaponDisabler
@@ -133,9 +128,7 @@
     - ERTloadoutGammaSecondary
     - PinpointerNuclear
     - CrowbarRed
-    - EmergencyMedipen
-    - BoxMRE
-    - Flare
+    - BoxSurvivalERT
     - WeaponDisabler
     - ClothingEyesPNVAdv
 
@@ -174,14 +167,11 @@
   storage:
     back:
     - TelescopicShield
-    - FlashlightSeclite
     - WeaponDisabler
     - CrowbarRed
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutAmberSecondary
     - ERTloadoutAmberPrimary
-    - Flare
     - Truncheon
 
 ## Red
@@ -219,11 +209,9 @@
     - TelescopicShield
     - WeaponDisabler
     - ERTloadoutRedPrimary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutRedSecondary
     - CrowbarRed
-    - Flare
     - Truncheon
     - PinpointerNuclear
 
@@ -265,9 +253,7 @@
     - CrowbarRed
     - ERTloadoutGammaPrimary
     - ERTloadoutGammaSecondary
-    - EmergencyMedipen
-    - BoxMRE
-    - Flare
+    - BoxSurvivalERT
     - Truncheon
     - PinpointerNuclear
     - ClothingEyesPNVAdv
@@ -307,19 +293,17 @@
   storage:
     back:
     - Defibrillator
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutAmberPrimary
     - ERTloadoutAmberSecondary
-    - Flare
     - WeaponDisabler
     - HandheldHealthAnalyzer
     - OmnizineChemistryBottle
     - EpinephrineChemistryBottle
     - Cautery
-    - FlashlightLantern
     - CrowbarRed
     - ADTCombatHypo
-    - EmergencyMedipen
+    
 
 ## Red
 - type: job
@@ -359,11 +343,9 @@
     - EpinephrineChemistryBottle
     - Cautery
     - CrowbarRed
-    - Flare
     - ADTCombatHypo
     - ERTloadoutRedSecondary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutRedPrimary
     - DefibrillatorCompact
     - WeaponDisabler
@@ -412,8 +394,7 @@
     - CrowbarRed
     - ADTCombatHypo
     - ERTloadoutGammaPrimary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - DefibrillatorCompact
     - ERTloadoutGammaSecondary
     - WeaponDisabler
@@ -455,13 +436,10 @@
     pocket1: DoubleEmergencyOxygenTankFilled
   storage:
     back:
-    - FlashlightLantern
     - WeaponDisabler
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutAmberSecondary
     - ERTloadoutAmberPrimary
-    - Flare
     - RCD
     - RCDAmmo
 
@@ -501,11 +479,9 @@
     - RCDAmmo
     - RCDAmmo
     - ERTloadoutRedSecondary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutRedPrimary
     - RemoteSignaller
-    - Flare
     - WeaponDisabler
 
 ## Gamma
@@ -551,10 +527,8 @@
     - C4
     - RemoteSignallerAdvanced
     - ERTloadoutGammaPrimary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutGammaSecondary
-    - Flare
     - PinpointerNuclear
     - ClothingEyesPNVAdv
 
@@ -598,10 +572,8 @@
     - LightReplacer
     - Holoprojector
     - CrowbarRed
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutAmberSecondary
-    - Flare
     - WeaponDisabler
 
 ## Red
@@ -642,11 +614,9 @@
     - Holoprojector
     - CrowbarRed
     - ERTloadoutRedSecondary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutRedPrimary
     - TrashBagBlue
-    - Flare
     - WeaponDisabler
 
 ## Gamma
@@ -688,8 +658,7 @@
     - Holoprojector
     - Zipties
     - ERTloadoutGammaPrimary
-    - EmergencyMedipen
-    - BoxMRE
+    - BoxSurvivalERT
     - ERTloadoutGammaSecondary
     - CrowbarRed
     - WeaponDisabler
