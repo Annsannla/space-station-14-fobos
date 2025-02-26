@@ -442,5 +442,4 @@
     - id: DrinkMREFlask
     - id: EmergencyMedipen
     - id: Flare
-    - id: WeaponFlareGun
-    - id: ShellShotgunFlare
+    - id: FlashlightSeclite
