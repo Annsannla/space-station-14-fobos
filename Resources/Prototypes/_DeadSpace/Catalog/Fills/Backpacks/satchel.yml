@@ -1,1 +1,11 @@
-
+- type: entity
+  parent: ClothingBackpackSatchelLeather
+  id: ClothingBackpackSatchelLeatherFilledMagusArmor
+  components: 
+  - type: Tag
+    tags: [] # ignore "WhitelistChameleon" tag
+  - type: StorageFill
+    contents:
+      - id: ClothingOuterArmorMagusred
+      - id: ClothingHeadHelmetWizardHelm
+      - id: ClothingEyesGlassesSunglasses
